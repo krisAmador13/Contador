@@ -1,0 +1,8 @@
+#include <gpio.h>
+#define SUMA 21
+#define RESTA 19
+#define CAMBIO 18
+#define LED1 25
+#define LED2 26
+#define LED3 27
+
